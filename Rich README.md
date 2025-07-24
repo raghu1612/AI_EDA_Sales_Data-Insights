@@ -33,4 +33,5 @@ Below are the natural language instructions used with GitHub Copilot during this
 - "Convert notebook into Python script"
 - "List all required libraries in requirements.txt"
 
+These prompts were typed as comments or docstring inside VS code, allowing Copilot to generate efficient and accurate code blocks instantly.
 
