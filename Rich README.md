@@ -9,3 +9,28 @@ Github Copilot interpreted these prompts into python code instantly,saving time 
 
 This project is a sales trend analysis and forecasting tool built using python,jupyter notebooks, and Github Copilot inside VS Code.**
 
+Prompt Examples for GitHub Copilot
+
+Below are the natural language instructions used with GitHub Copilot during this project:
+
+---### 🔍 Data Analysis Prompts:
+- "Load sales_data.csv using pandas"
+- "Display basic statistics for the dataset"
+- "Check for missing values and drop nulls"
+
+### 📊 Visualization Prompts:
+- "Create line plot for monthly sales using matplotlib"
+- "Plot bar chart for category-wise sales"
+- "Show correlation heatmap using seaborn"
+
+### 📈 Forecasting Prompts:
+- "Use linear regression to forecast next 6 months of sales"
+- "Train-test split the dataset"
+- "Plot actual vs predicted values"
+
+### 🛠 Automation Prompts:
+- "Export plots to PNG"
+- "Convert notebook into Python script"
+- "List all required libraries in requirements.txt"
+
+
