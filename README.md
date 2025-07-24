@@ -28,9 +28,7 @@ Check assumptions
 
 Welcome everyone! Today we’ll dive into **Exploratory Data Analysis (EDA)** – a fundamental step in any data project.
 
-*Last week, we learnt how to use Google Colab and Gemini AI for data segregation. Today, we’re moving to a more advanced concept – analyzing data to prepare dashboards and graphs.*
-
-EDA is all about exploring data to understand its main characteristics before any formal modeling.
+**EDA** is all about exploring data to understand its main characteristics before any formal modeling.
 In simple terms, we use EDA to **summarize what our data looks like**, often using stats and visualizations.
 
 ### Why EDA Matters
