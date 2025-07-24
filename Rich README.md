@@ -37,7 +37,7 @@ These prompts were typed as comments or docstring inside VS code, allowing Copil
 
 **Insights Delivered
 
-1.Category-wise and regional performance
-2.Time-series forecasting for sales
-3.Monthly trends, heatmaps, and KPI analysis
-**
+1.**Category-wise and regional performance**
+2.**Time-series forecasting for sales**
+3.**Monthly trends, heatmaps, and KPI analysis**
+
