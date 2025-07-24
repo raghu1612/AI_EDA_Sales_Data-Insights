@@ -35,3 +35,9 @@ Below are the natural language instructions used with GitHub Copilot during this
 
 These prompts were typed as comments or docstring inside VS code, allowing Copilot to generate efficient and accurate code blocks instantly.
 
+**Insights Delivered
+
+1.Category-wise and regional performance
+2.Time-series forecasting for sales
+3.Monthly trends, heatmaps, and KPI analysis
+**
