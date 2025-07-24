@@ -5,7 +5,7 @@
 This project was developed using Github Copilot inside VS code with natural language prompts to accelerate data analysis,
 Visualization, and forecasting.
 
-Github Copilot interpreted thes prompts into python code instantly,saving time and helping prototype business insights rapidly.
+Github Copilot interpreted these prompts into python code instantly,saving time and helping prototype business insights rapidly.
 
 This project is a sales trend analysis and forecasting tool built using python,jupyter notebooks, and Github Copilot inside VS Code.**
 
