@@ -1,4 +1,4 @@
-**EDA_Sales_Data_Insights (Co-pilot -Driven)
+****EDA_Sales_Data_Insights (Co-pilot -Driven)**
 
 An AI-powered sales analysis project built during vibe coding week using Github Copilot,Natural language prompts, and VS Code.
 
